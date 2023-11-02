@@ -28,7 +28,7 @@ Users should be able to:
 ![](assets/fem-nft-card-desktop.png)
 
 Desktop solution.
-![](assets/fem-nft-card-mobile.png.png)
+![](assets/fem-nft-card-mobile.png)
 
 Mobile solution
 
